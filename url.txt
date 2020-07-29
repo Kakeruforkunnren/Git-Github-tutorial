@@ -1,0 +1,11 @@
+初期設定
+https://tech-camp.in/note/technology/4756/
+https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be
+
+Permission denied (publickey).の対応
+https://atuweb.net/201907_why-github-denied-publickey/#%E9%8D%B5%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6-github-%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%99%E3%82%8B
+
+unix vim画面
+https://hacknote.jp/archives/7660/
+
+git@github.com:Kakeruforkunnren/Git-Github-tutorial.git
